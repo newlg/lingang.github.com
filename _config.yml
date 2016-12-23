@@ -102,6 +102,6 @@ facebook_like: false
 
 
 #add
-[branch "master"]
-remote = origin
-merge = refs/heads/master
+# [branch "master"]
+# remote = origin
+# merge = refs/heads/master
